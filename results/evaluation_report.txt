@@ -1,0 +1,15 @@
+Train/Test samples: 11872/700
+
+              precision    recall  f1-score   support
+
+NotScreaming       0.97      0.96      0.97       334
+   Screaming       0.96      0.98      0.97       366
+
+    accuracy                           0.97       700
+   macro avg       0.97      0.97      0.97       700
+weighted avg       0.97      0.97      0.97       700
+
+Confusion matrix:
+[[320  14]
+ [  9 357]]
+ROC-AUC: 0.991

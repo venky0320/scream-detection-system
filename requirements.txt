@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+librosa
+soundfile
+joblib
+matplotlib
+sounddevice
+geocoder
+requests
+python-dotenv
+# Only needed for WhatsApp alerts (Telegram does not need it):
+#   pip install pywhatkit
